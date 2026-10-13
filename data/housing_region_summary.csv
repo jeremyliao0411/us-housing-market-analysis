@@ -1,0 +1,8 @@
+Region,2025 Price ($K),Change From Peak (%),Days on Market 2025,Sale-to-List 2025,Months of Supply 2025,Inventory Change vs 2019 (%),Market Type,Region Short,State
+"Dallas, TX metro area",411.0,-12.0,59.0,0.975,4.9,37.0,Buyer's market,"Dallas, TX",TX
+"Austin, TX metro area",435.0,-21.4,80.0,0.972,5.8,94.0,Buyer's market,"Austin, TX",TX
+"San Diego, CA metro area",905.0,-4.3,33.0,0.99,2.9,-19.0,Balanced,"San Diego, CA",CA
+"Los Angeles, CA metro area",916.0,-3.1,50.0,0.997,4.2,-5.0,Balanced,"Los Angeles, CA",CA
+"Berkeley, CA",1415.0,-14.4,17.0,1.181,1.9,46.0,Seller's market,"Berkeley, CA",CA
+"San Francisco, CA metro area",1514.0,-7.1,22.0,1.046,2.2,22.0,Seller's market,"San Francisco, CA",CA
+"San Jose, CA metro area",1610.0,-5.8,17.0,1.033,1.8,-23.0,Seller's market,"San Jose, CA",CA
