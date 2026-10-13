@@ -67,5 +67,5 @@ pip install -r requirements.txt
 jupyter notebook Housing_Analysis.ipynb
 ```
 
-## Credits
-Data: [Redfin Data Center](https://www.redfin.com/news/data-center/), Redfin, a national real estate brokerage. This project started from a class assignment in DSO 545 at the USC Marshall School of Business and was rebuilt as an independent analysis with a new question, notebook and dashboard.
+## Data source
+[Redfin Data Center](https://www.redfin.com/news/data-center/)
